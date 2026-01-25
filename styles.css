@@ -43,7 +43,7 @@
 
 .cell_text {
     width: 50%;
-    padding-left: 2rem;
+    padding-left: 0rem;
     font-size: 100%;
     
 }
@@ -61,6 +61,7 @@
 }
 a:hover{
     color: magenta
+
 
 
 
